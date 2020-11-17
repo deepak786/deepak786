@@ -17,7 +17,7 @@ https://stackoverflow.com/users/3452078/deepak-goyal
 ## Medium
 https://deepakdroid.medium.com/
 
-# Checkout out some tools that are created by me
+# Checkout some tools that are created by me
 
 ## Password Generator
 https://deepak786.github.io/generate-password/#/
