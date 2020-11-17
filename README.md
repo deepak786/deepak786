@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br/>
 <p>
-Hi! How are you? I'm a developer that loves to create new things!
+How are you? I'm a developer that loves to create new things!
 <br/>
 <br/>
 
