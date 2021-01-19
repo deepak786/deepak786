@@ -10,15 +10,11 @@ How are you? I'm a developer that loves to create new things!
 - I have also published my first package on pub.dev. https://pub.dev/packages/color_parser
 - I love to write technical articles. I try to share the knowledge with others.
 
-</br>
-
 ## Stackoverflow
 https://stackoverflow.com/users/3452078/deepak-goyal
 
 ## Medium
 https://deepakdroid.medium.com/
-
-<br/>
 
 # Checkout some tools that are created by me
 
@@ -28,13 +24,9 @@ https://deepak786.github.io/generate-password/#/
 ### Color Parser
 https://deepak786.github.io/demo-color-parser/#/
 
-<br/>
-
 # Sponsor me
 
 [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy&nbsp;me&nbsp;a&nbsp;coffee&emoji=&slug=deepakdroid&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/deepakdroid)
-
-<br/>
 
 ### Github Stats
 
