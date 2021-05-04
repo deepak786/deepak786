@@ -1,35 +1,36 @@
-### Hi there 👋
+### Hi there 👋, how are you?
 <br/>
 
-How are you? I'm a developer that loves to create new things!
+I'm a Software developer who is passionate to learn and love to create new things. I have 6+ years of experince in development. I love to write technical articles and share the knowledge with others.
 <br/>
 
-- I have 6+ years of experience in development.
-- #android #java #flutter #dart #firebase #kotlin
-- I have also worked on #nodeJS, #php, #aws
-- I have also published my first package on pub.dev. https://pub.dev/packages/color_parser
-- I love to write technical articles. I try to share the knowledge with others.
+### #android #java #flutter #dart #firebase #kotlin
 
-## Stackoverflow
-https://stackoverflow.com/users/3452078/deepak-goyal
+<br/>
 
-## Medium
-https://deepakdroid.medium.com/
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=deepak786&count_private=true&theme=default&show_icons=true" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak786"/>
 
-# Checkout some tools that are created by me
+<br/>
 
-### Password Generator
-https://deepak786.github.io/generate-password/#/
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/deepakdroid/)
+- [Medium](https://deepakdroid.medium.com/)
+- [Stackoverflow](https://stackoverflow.com/users/3452078/deepak-goyal)
 
-### Color Parser
-https://deepak786.github.io/demo-color-parser/#/
+## Checkout the below tools
 
-# Sponsor me
+- [Password Generator](https://deepak786.github.io/generate-password/#/)
+- [Color Parser](https://deepak786.github.io/demo-color-parser/#/)
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy&nbsp;me&nbsp;a&nbsp;coffee&emoji=&slug=deepakdroid&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/deepakdroid)
+<br/>
+Let's connect. Send me a message if you need any help from me.
+<br/>
+Don't hesitate to buy me a coffee.
+<br/>
+<a href="https://www.buymeacoffee.com/deepakdroid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 190px !important;"></a>
 
-### Github Stats
-
-[![Deepak's Github Stats](https://github-readme-stats.vercel.app/api?username=deepak786&count_private=true&theme=default&show_icons=true)](https://github.com/deepak786)
+<br/><br/>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepak786.deepak786)
