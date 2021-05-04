@@ -6,13 +6,11 @@ I'm a Software developer who is passionate to learn and love to create new thing
 
 ### #android #java #flutter #dart #firebase #kotlin
 
-<br/>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=deepak786&count_private=true&theme=default&show_icons=true" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak786"/>
 
-<br/>
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/deepakdroid/)
@@ -29,8 +27,8 @@ Let's connect. Send me a message if you need any help from me.
 <br/>
 Don't hesitate to buy me a coffee.
 <br/>
-<a href="https://www.buymeacoffee.com/deepakdroid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 190px !important;"></a>
+<a href="https://www.buymeacoffee.com/deepakdroid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150px"></a>
 
-<br/><br/>
+<br/>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepak786.deepak786)
