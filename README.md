@@ -16,8 +16,6 @@ I'm a Software developer who is passionate to learn and love to create new thing
 - [Password Generator](https://deepak786.github.io/generate-password/#/)
 - [Color Parser](https://deepak786.github.io/demo-color-parser/#/)
 
-<br/>
-
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/deepakdroid/)
 - [Medium](https://deepakdroid.medium.com/)
